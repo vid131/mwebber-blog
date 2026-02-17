@@ -1,20 +1,27 @@
 import Link from 'next/link'
 
-export default function Home() {
+export default function BlogIndex() {
+  const posts = [
+    { title: "Moving to Obsidian", date: "FEB 15, 2026", slug: "moving-to-obsidian" },
+    { title: "Frosty Run, People Struggling", date: "DEC 03, 2024", slug: "frosty-run" },
+    { title: "7 Mile Run", date: "NOV 30, 2024", slug: "7milerun" },
+    { title: "Refreshing Winter Run", date: "JAN 22, 2024", slug: "refreshing-winter-run" },
+    { title: "Before Ctrl+Z: Exploring Film Editing’s Golden Age with Walter Murch’s ‘Her Name Was Moviola’", date: "JAN 17, 2023", slug: "moviola" },
+  ];
+
   return (
-    <main style={{ padding: '40px', maxWidth: '800px', margin: '0 auto' }}>
-      <h1>Personal Musings</h1>
-      <p>Thoughts on running, technology, and learning.</p>
-      
-      <section style={{ marginTop: '40px' }}>
-        <h2>Latest Posts</h2>
-        <ul>
-          <li>
-            <Link href="/blog/test-post">My First MDX Post</Link>
+    <main>
+      <h2 className="archive-header">Archive</h2>
+      <ul className="archive-list">
+        {posts.map((post) => (
+          <li key={post.slug} className="archive-item">
+            <Link href={`/blog/${post.slug}`} className="archive-link">
+              {post.title}
+            </Link>
+            <span className="archive-date">{post.date}</span>
           </li>
-          {/* You'll add more links here as you write */}
-        </ul>
-      </section>
+        ))}
+      </ul>
     </main>
   )
 }
