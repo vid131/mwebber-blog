@@ -19,17 +19,23 @@ RUN npm run build
 # 4. Runner
 FROM base AS runner
 WORKDIR /app
-ENV NODE_ENV production
+
+ENV NODE_ENV=production
+# Add the equals sign here for consistency
+ENV PORT=3000
+
 RUN addgroup --system --gid 1001 nodejs
 RUN adduser --system --uid 1001 nextjs
 
-COPY --from=builder /app/public ./public
+# We need the server files for 'npm start' to work
 COPY --from=builder /app/.next ./.next
 COPY --from=builder /app/node_modules ./node_modules
 COPY --from=builder /app/package.json ./package.json
+COPY --from=builder /app/public ./public
 
 USER nextjs
-EXPOSE 3000
-ENV PORT 3000
 
+EXPOSE 3000
+
+# This matches your grounded, direct approach
 CMD ["npm", "start"]
