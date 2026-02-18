@@ -1,10 +1,12 @@
-import createMDX from '@next/mdx'
+import createMDX from '@next/mdx';
+import { NextConfig } from 'next';
 
-/** @type {import('next').NextConfig} */
-const nextConfig = {
+/** @type {NextConfig} */
+const nextConfig: NextConfig = {
   pageExtensions: ['js', 'jsx', 'md', 'mdx', 'ts', 'tsx'],
-}
+  output: 'standalone', // TypeScript now knows this is valid
+};
 
-const withMDX = createMDX({})
+const withMDX = createMDX({});
 
-export default withMDX(nextConfig)
+export default withMDX(nextConfig);
