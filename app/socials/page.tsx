@@ -4,7 +4,7 @@ export default function SocialsPage() {
   const links = [
     { name: 'Twitter', handle: '@MediaGuy4', url: 'https://twitter.com/MediaGuy4' },
     { name: 'Bluesky', handle: 'michael-webber.com', url: 'https://bsky.app/profile/michael-webber.com' },
-    { name: 'Mastadon' handle: 'michael-webber', url: 'https://twit.social/deck/@michaelwebber'},
+    { name: 'Mastadon', handle: 'michael-webber', url: 'https://twit.social/deck/@michaelwebber'},
     { name: 'Facebook', handle: 'Michael R. Webber', url: 'https://www.facebook.com/MichaelRWebber' },
   ];
 
