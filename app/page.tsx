@@ -64,12 +64,12 @@ export default function Home() {
           Latest Writing
         </p>
         
-        <Link href="/blog/frosty-run" style={{ textDecoration: 'none' }}>
+        <Link href="/blog/altonbay" style={{ textDecoration: 'none' }}>
           <h3 style={{ fontSize: '1.8rem', color: '#000', marginBottom: '10px', fontWeight: '600' }}>
-            Frosty Run, People Struggling
+            Alton Bay Ice Runway
           </h3>
           <p style={{ fontSize: '1rem', color: '#666', lineHeight: '1.6' }}>
-            December 3, 2024 — A reflection on a discovery along the Blackstone River.
+            February 19, 2026 — A visit to the Alton Bay Seaplane Base (B18) on Lake Winnipesaukee, the only FAA-approved ice runway in the lower 48 states.
           </p>
         </Link>
       </section>

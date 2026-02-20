@@ -7,6 +7,7 @@ export default function BlogIndex() {
     { title: "7 Mile Run", date: "NOV 30, 2024", slug: "7milerun" },
     { title: "Refreshing Winter Run", date: "JAN 22, 2024", slug: "refreshing-winter-run" },
     { title: "Before Ctrl+Z: Exploring Film Editing’s Golden Age with Walter Murch’s ‘Her Name Was Moviola’", date: "JAN 17, 2023", slug: "moviola" },
+    { title: "Trim video without re-encoding using ffmpeg", date: "JAN 4, 2023", slug: "ffmpeg" },
   ];
 
   return (

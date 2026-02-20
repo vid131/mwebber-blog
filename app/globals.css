@@ -158,4 +158,48 @@ article h3 + p, main h2 + p, main h3 + p {
 [data-nextjs-toast-wrapper] {
   display: none !important;
 }
+/* This targets the box around the code */
+pre {
+  background-color: #f4f4f4;
+  padding: 16px;
+  border-radius: 8px;
+  overflow-x: auto; /* Ensures long lines of code don't break your layout */
+  margin: 20px 0;
+  border: 1px solid #e1e1e1;
+}
 
+/* This targets the text inside the box */
+pre code {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.9rem;
+  color: #333;
+  background-color: transparent; /* Removes background if already set on pre */
+  padding: 0;
+}
+
+/* Optional: This targets "inline" code like `this` */
+:not(pre) > code {
+  background-color: #f4f4f4;
+  padding: 2px 4px;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+figure {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  color: #666;
+  font-style: italic;
+  line-height: 1.4;
+}
+
+/* Ensures the image doesn't overflow its container */
+figure img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}

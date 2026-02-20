@@ -1,0 +1,55 @@
+export const metadata = {
+  title: "Trim video without re-encoding using ffmpeg",
+  date: "2023-01-04",
+  description: "Using command line tool ffmpeg to process video"
+}
+
+# Trim video without re-encoding using ffmpeg
+<div style={{ color: '#999', fontSize: '0.9rem', marginTop: '-20px', marginBottom: '40px' }}>
+  January 4, 2023
+</div>
+I’ve been taking the time to learn ffmpeg and some of the really useful stuff you can do with this command line tool (CLI).
+
+Here’s one example of a situation I find myself in frequently and have not had a great solution until now.
+
+The ability to trim a video file without re-encoding!
+
+“Re-encoding” means loss of video quality in my mind. Not quite as bad as copying a VHS tape, known in the analog world as a “generation loss” Having the ability to trim a video file WITHOUT suffering any quality loss, that was a WOW ffmpeg moment for me.
+
+This is an issue that comes up frequently in community media and I’m sure all video professionals have delt with this issue.
+
+You have some raw footage you wan to keep for the future, but the camera operator forgot to stop recording and the file has a bunch of “junk” at the end.
+
+Or you digitized some analog tapes and during the process you walk away only to come back to “snow” or “junk” at the end of the tape that you have now just captured.
+
+Or you have a video file with the standard leader of color bars and countdown at the beginning. You want to trim the footage, but don’t want to lose video quality in the process…
+
+So you either keep all the extra “junk” taking up space on your drive or you open up your editing software and edit out the junk and take the hit and re-encode.
+
+Right now, I’m cleaning up a 70TB Synology NAS that is nearly full. I found several large files that fit the above examples.
+
+Using ffmpeg and a rather simple command line, I was able to clean up some of these files and free up some space.
+
+Here’s an example of the command line I used:
+
+```
+ffmpeg -i BestVideoEver.mov -ss 00:37 -t 51:14 -c:a copy -c:v copy BestVideoEver-trimmed.mov
+```
+
+To break this string down just a bit, here’s what’s happening
+
+-i = Input Video  
+-ss 00:00 = In-Point (everything before will be removed)  
+-t 00:00 = Out-Point (everything after will be removed)  
+-c:a copy = Copy Audio (Copy NOT re-encode)  
+-c:v copy = Copy Video (Copy NOT re-encode)
+
+Finally “BestVideoEver-trimmed.mov” is the ffmpeg output file, which you can set to a specific destination if you want, for example:
+
+```
+ffmpeg -i BestVideoEver.mov -ss 00:37 -t 51:14 -c:a copy -c:v copy /users/michaelwebber/Desktop/BestVideoEver-trimmed.mov
+```
+
+Anyway, that’s it! Something I learned how to do recently and wanted to share just in case others find it useful.
+
+If you want to learn MUCH more about ffmpeg I recommend reading [this blog post](https://img.ly/blog/ultimate-guide-to-ffmpeg/). Covers a whole bunch of topics including how to install ffmpeg and many of the cool features. Never knew you could edit video and even add text graphics with ffmpeg. I really [recommend this blog post at img.ly](https://img.ly/blog/ultimate-guide-to-ffmpeg/), an in-depth, well-organized post.
