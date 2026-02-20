@@ -2,6 +2,7 @@ import Link from 'next/link'
 
 export default function BlogIndex() {
   const posts = [
+    { title: "Alton Bay Ice Runway", date: "JAN 19, 2026", slug: "altonbay" },
     { title: "Moving to Obsidian", date: "FEB 15, 2026", slug: "moving-to-obsidian" },
     { title: "Frosty Run, People Struggling", date: "DEC 03, 2024", slug: "frosty-run" },
     { title: "7 Mile Run", date: "NOV 30, 2024", slug: "7milerun" },
