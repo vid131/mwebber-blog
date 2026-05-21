@@ -19,7 +19,7 @@ theme = "PaperMod"
 [params.profileMode]
   enabled = true
   title = "Michael Webber"
-  subtitle = "Running, reselling, and deep thinking out of Rhode Island."
+  subtitle = "A Work In Progress."
 
   # Added a direct button right on your profile card for quick navigation
   [[params.profileMode.buttons]]
@@ -36,3 +36,9 @@ theme = "PaperMod"
   name = "Tags"
   url = "/tags/"
   weight = 20
+
+# Add this block for the RSS Menu Link
+[[menu.main]]
+  name = "RSS"
+  url = "/index.xml"
+  weight = 30

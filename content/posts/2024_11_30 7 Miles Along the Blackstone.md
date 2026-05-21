@@ -1,6 +1,5 @@
 ---
 title: 7 Miles Along the Blackstone
-date: 2024-11-30
 tags:
   - running
 categories:
