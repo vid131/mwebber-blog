@@ -1,0 +1,33 @@
+baseURL = 'https://michael-webber.com/'
+locale = 'en-us'
+title = 'Michael Webber'
+theme = "PaperMod"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
+  
+  [params]
+  # Theme visual settings
+  defaultTheme = "light"
+  disableThemeToggle = true 
+  ShowShareButtons = true     # Enables sharing links at the bottom of posts
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  
+  # Profile layout for the home page
+  [params.profileMode]
+    enabled = true
+    title = "Michael Webber"
+    subtitle = "Running, reselling, and deep thinking out of Rhode Island."
+
+  # Simple top navigation menu
+  [[menu.main]]
+    name = "Archive"
+    url = "/posts/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 20
