@@ -1,5 +1,5 @@
-# Stage 1: Build the static HTML site using Hugo Extended
-FROM peaceiris/hugo:v0.125.0-extended AS builder
+# Stage 1: Build the static HTML site using the official Hugo Extended image
+FROM ghcr.io/gohugoio/hugo:latest AS builder
 WORKDIR /src
 COPY . .
 # Compile the static assets cleanly
