@@ -1,9 +1,9 @@
-# Stage 1: Build the static HTML site using the official Hugo Extended image
-FROM ghcr.io/gohugoio/hugo:latest AS builder
+# Stage 1: Build the static HTML site using the official Hugo Extended image tag
+FROM ghcr.io/gohugoio/hugo:latest-extended AS builder
 WORKDIR /src
 COPY . .
-# Compile the static assets cleanly
-RUN hugo --minify
+# Run the compilation with an explicit source target path
+RUN hugo --minify --source /src
 
 # Stage 2: Serve the static files using Nginx
 FROM nginx:alpine
