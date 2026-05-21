@@ -30,4 +30,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/vid131/mwebber-blog:latest
+          tags: ghcr.io/vid131/hugo-blog:latest
