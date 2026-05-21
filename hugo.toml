@@ -6,28 +6,33 @@ theme = "PaperMod"
 [outputs]
   home = ["HTML", "RSS"]
   page = ["HTML"]
-  
-  [params]
-  # Theme visual settings
+
+# Global Parameters (Keep these together)
+[params]
   defaultTheme = "light"
   disableThemeToggle = true 
-  ShowShareButtons = true     # Enables sharing links at the bottom of posts
+  ShowShareButtons = true     
   ShowReadingTime = true
   ShowPostNavLinks = true
-  
-  # Profile layout for the home page
-  [params.profileMode]
-    enabled = true
-    title = "Michael Webber"
-    subtitle = "Running, reselling, and deep thinking out of Rhode Island."
 
-  # Simple top navigation menu
-  [[menu.main]]
-    name = "Archive"
+# Profile Mode Configuration (Must sit below general params)
+[params.profileMode]
+  enabled = true
+  title = "Michael Webber"
+  subtitle = "Running, reselling, and deep thinking out of Rhode Island."
+
+  # Added a direct button right on your profile card for quick navigation
+  [[params.profileMode.buttons]]
+    name = "Read the Blog"
     url = "/posts/"
-    weight = 10
 
-  [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 20
+# Top Right Navigation Menu Links
+[[menu.main]]
+  name = "Archive"
+  url = "/posts/"
+  weight = 10
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 20
