@@ -1,8 +1,12 @@
 ---
-title: "My First Hugo Blog Post" 
-date: 2026-05-21
-tags: ["running", "ebay", "tech"] 
-categories: ["Personal"] 
+title: My First Hugo Blog Post
+date: 2026-05-20
+tags:
+  - running
+  - ebay
+  - tech
+categories:
+  - Personal
 draft: false
 ---
 
