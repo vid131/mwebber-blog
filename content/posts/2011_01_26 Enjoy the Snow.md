@@ -1,6 +1,6 @@
 ---
 title: Enjoy the Snow!
-date: 2026-05-20
+date: 2011-01-26
 tags:
   - fun-stuff
   - Snow
@@ -9,4 +9,5 @@ categories:
 draft: false
 ---
 10 PRINT “SNOW”
+
 20 GOTO 10
