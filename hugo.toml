@@ -4,7 +4,7 @@ title = 'Michael Webber'
 theme = "PaperMod"
 
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "JSON"]
   page = ["HTML"]
 
 # Global Parameters (Keep these together)
@@ -42,3 +42,19 @@ theme = "PaperMod"
   name = "RSS"
   url = "/index.xml"
   weight = 30
+
+[params.search]
+enable = true
+title = "Search the Log"
+type = "fuse"
+showShareButton = false
+
+# Fuse.js specific tuning parameters
+[params.search.fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 100
+threshold = 0.4
+minMatchCharLength = 2
+keys = ["title", "permalink", "summary", "content"]
