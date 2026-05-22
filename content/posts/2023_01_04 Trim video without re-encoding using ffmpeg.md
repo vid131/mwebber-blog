@@ -1,6 +1,6 @@
 ---
 title: Trim video without re-encoding using ffmpeg
-date: 2026-05-20
+date: 2023-01-04
 tags:
   - running
 categories:

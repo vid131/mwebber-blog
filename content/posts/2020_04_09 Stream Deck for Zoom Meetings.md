@@ -1,12 +1,17 @@
 ---
-title: # Stream Deck for Zoom Meetings
+title: Stream Deck for Zoom Meetings
 date: 2020-04-09
 tags:
   - running
+  - technology
+  - StreamDeck
+  - Zoom
 categories:
   - Personal
-draft: true
+draft: false
 ---
+![](/20200408_100246-compressor-scaled.jpg)
+
 **UPDATE:** My setup for Zoom has evolved and somewhat less dependent on StreamDeck now. [You may want to check out my new Blog Post with our updated Zoom setup for TV interviews](https://www.michael-webber.com/zoom-tv-interviews/).
 
 This week I purchased a [Stream Deck XL](https://www.elgato.com/en/gaming/stream-deck-xl) ($235) to help streamline our video productions with Zoom remote guests.
@@ -26,7 +31,7 @@ Despite the limitations, we are making every effort to maintain high production 
 
 Our existing television studio was not set up well for the shift in production style. This prompted us to build a temporary video production console on several folding tables right inside our studio.
 
-![](https://web.archive.org/web/20260118111254im_/https://i0.wp.com/www.michael-webber.com/wp-content/uploads/covidstudiosetup2020.jpg?fit=500%2C243&ssl=1)
+![](/covidstudiosetup2020.jpg)
 
 ## Adding Steam Deck XL into the Workflow
 
@@ -39,8 +44,7 @@ Another shortcut I use often hides the control panel buttons on the lower part o
 The **Stream Deck XL** simply automates the keyboard shortcut process and reduces keystrokes to a single button. Allowing new users in the video production environment to get up to speed faster and with better results.
 
 ### TIP – ENABLE GLOBAL SHORTCUT
-
-![](https://web.archive.org/web/20260118111254im_/https://i2.wp.com/www.michael-webber.com/wp-content/uploads/ZoomSettings.jpg?fit=500%2C168&ssl=1)
+![](/ZoomSettings.jpg)
 
 Enabling global shortcuts really helps the Stream Deck configuration. This setting allows the shortcuts to work even when Zoom is not in focus.
 

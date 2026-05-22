@@ -9,8 +9,6 @@ categories:
   - Personal
 draft: false
 ---
-# Moving my Musings to Obsidian
-
 After years on WordPress, I'm transitioning my digital journal to a more local, file-based system. 
 
 ### Why the Change?
