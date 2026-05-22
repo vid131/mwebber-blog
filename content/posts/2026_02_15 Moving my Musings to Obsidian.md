@@ -1,0 +1,22 @@
+---
+title: Moving my Musings to Obsidian
+date: 2026-02-15
+tags:
+  - thoughts
+  - technology
+  - updates
+categories:
+  - Personal
+draft: false
+---
+# Moving my Musings to Obsidian
+
+After years on WordPress, I'm transitioning my digital journal to a more local, file-based system. 
+
+### Why the Change?
+* **Ownership:** My notes stay in my vault.
+* **Speed:** Next.js and Docker on my Contabo VPS are lightning fast.
+* **Focus:** Writing in Obsidian allows for deep thinking without the clutter of a CMS dashboard.
+
+### Technology & Learning
+This blog isn't just a place for updates; it's a project in itself. Learning to containerize this with Docker has been a great Sunday exercise.

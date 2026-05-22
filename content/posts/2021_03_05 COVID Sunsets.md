@@ -6,7 +6,7 @@ tags:
   - photography
 categories:
   - Personal
-draft: true
+draft: false
 ---
 My wife and I have been going on long weekend bike rides for several months now. The COVID pandemic has given us extra time in our busy family schedule to discover a new date night-exercise opportunity.
 

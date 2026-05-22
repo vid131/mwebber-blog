@@ -1,6 +1,6 @@
 ---
 title: Alton Bay Ice Runway
-date: 2026-05-20
+date: 2026-02-19
 tags:
   - vacation
   - travel
