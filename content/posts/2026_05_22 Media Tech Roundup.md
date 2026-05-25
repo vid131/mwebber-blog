@@ -18,8 +18,8 @@ I hope you enjoy, drop me a note if you have an article or link I may be interes
 
 ---
 ### [AM Radio Act Bundled Into Larger Bill Package](https://mediaconfidential.blogspot.com/2026/05/am-radio-act-bundled-into-larger-bill.html)
-Source: Media Confidential
+Source: Media Confidential ([Read](https://mediaconfidential.blogspot.com/2026/05/am-radio-act-bundled-into-larger-bill.html))
 
 The push to save AM radio just got a major strategic upgrade. Congress is folding the **AM Radio for Every Vehicle Act** into a must-pass transportation package, making it highly likely that AM radio remains standard safety gear in your next car.
 
-The Take: Holding onto local radio in all it's forms is critical in some many ways. AM in particular offers a link to our past, a form of communication that is over 100 years old and remains relevant. I listen to my local AM talk stations nearly every day. Free to the listener, no subscription, no cell phone needed. 
+**The Take:** Holding onto local radio in all it's forms is critical in some many ways. AM in particular offers a link to our past, a form of communication that is over 100 years old and remains relevant. I listen to my local AM talk stations nearly every day. Free to the listener, no subscription, no cell phone needed. 
