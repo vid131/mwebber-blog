@@ -1,13 +1,16 @@
 ---
-title: Overloaded Schedule forces Focus
+title: August is fall's warning bell
 date: 2026-08-03
 tags:
   - family
   - cycling
+  - Leadership
 categories:
   - Personal
-draft: true
+draft: false
 ---
+![](/AugustBell.png)
+
 September is coming fast, and if you have lingering summer goals, you better have a plan.
 
 In our house, lingering isn't really in the cards anyway. Our to-do list is always stacked. This summer has been no different. We have a list of large projects and commitments we want to accomplish. They’re not all getting done, and we know that.
