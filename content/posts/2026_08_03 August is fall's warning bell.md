@@ -9,7 +9,7 @@ categories:
   - Personal
 draft: false
 ---
-![](/AugustBell.png)
+![](/AugustBell.jpg)
 
 September is coming fast, and if you have lingering summer goals, you better have a plan.
 
