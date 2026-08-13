@@ -27,6 +27,9 @@ Source: Washington Post ([Read](https://wapo.st/4wgmxuG) - *Gifted Article Link*
 
 The FCC’s commissioners voted 2-1 to replace the 39% ownership cap with a case-by-case review. Free Press [announced](https://www.freepress.net/news/free-press-plans-take-carr-court-over-repeal-ownership-cap) their intentions to appeal the decision in court. National Association of Broadcasters (NAB) President and CEO Curtis LeGeyt called it “a generational step toward strengthening local stations and ensuring they can compete in today’s media marketplace.”
 
+*More on the topic:*
+Meeting Video: [FCC August 2026 Open commission Meeting](https://youtu.be/F9UHYp687VQ?si=IGQK47g8ln4CbZpB)
+[Chair Brendan Carr Op Ed](https://www.breitbart.com/politics/2026/07/15/exclusive-fcc-chairman-brendan-carr-restoring-balance-to-the-broadcast-airwaves/)  
 ### [SpaceX to FCC: Starlink makes rural subsidies obsolete](https://www.lightreading.com/broadband/spacex-to-fcc-starlink-makes-rural-subsidies-obsolete)
 Source: [Light Reading](https://www.lightreading.com/)
 
