@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Updates on Michael Webber</title>
+    <link>http://localhost:1313/tags/updates/</link>
+    <description>Recent content in Updates on Michael Webber</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/updates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moving my Musings to Obsidian</title>
+      <link>http://localhost:1313/posts/2026_02_15-moving-my-musings-to-obsidian/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2026_02_15-moving-my-musings-to-obsidian/</guid>
+      <description>&lt;p&gt;After years on WordPress, I&amp;rsquo;m transitioning my digital journal to a more local, file-based system.&lt;/p&gt;
+&lt;h3 id=&#34;why-the-change&#34;&gt;Why the Change?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ownership:&lt;/strong&gt; My notes stay in my vault.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Speed:&lt;/strong&gt; Next.js and Docker on my Contabo VPS are lightning fast.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Focus:&lt;/strong&gt; Writing in Obsidian allows for deep thinking without the clutter of a CMS dashboard.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;technology--learning&#34;&gt;Technology &amp;amp; Learning&lt;/h3&gt;
+&lt;p&gt;This blog isn&amp;rsquo;t just a place for updates; it&amp;rsquo;s a project in itself. Learning to containerize this with Docker has been a great Sunday exercise.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

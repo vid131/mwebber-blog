@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Movies on Michael Webber</title>
+    <link>http://localhost:1313/tags/movies/</link>
+    <description>Recent content in Movies on Michael Webber</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/movies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Murch Says 3D Will Never Work</title>
+      <link>http://localhost:1313/posts/2011_01_30-murch-says-3d-will-never-work/</link>
+      <pubDate>Sun, 30 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2011_01_30-murch-says-3d-will-never-work/</guid>
+      <description>&lt;p&gt;The future of 3D is blurry at best, as more and more industry leaders express their concerns with the technology and its long-term viability.  Hollywood editor and sound designer, &lt;a href=&#34;https://web.archive.org/web/20110201113055/http://en.wikipedia.org/wiki/Walter_Murch&#34; title=&#34;Walter Murch Wikipedia Listing&#34;&gt;Walter Murch&lt;/a&gt; is the latest skeptic to come out, explaining his viewpoint in a letter to Roger Ebert:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;…dark, small, stroby, headache inducing, alienating. And expensive. The question is: how long will it take people to realize and get fed up?&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

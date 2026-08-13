@@ -1,6 +1,6 @@
 ---
 title: Weekend Media Reads — Vol. 2
-date: 2026-08-07
+date: 2026-08-13
 tags:
   - Weekend-Reads
   - Television

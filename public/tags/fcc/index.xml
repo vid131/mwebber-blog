@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>FCC on Michael Webber</title>
+    <link>http://localhost:1313/tags/fcc/</link>
+    <description>Recent content in FCC on Michael Webber</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/fcc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weekend Media Reads — Vol. 1</title>
+      <link>http://localhost:1313/posts/2026_08_09-weekend-media-reads-vol-1/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2026_08_09-weekend-media-reads-vol-1/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/techroundupcoffee.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This week my RSS reader was filled with news coming out of the FCC. Are they spurring a new wave of broadcast media consolidation? Is the Universal Service Fund (USF) no longer needed in the age of Starlink? Disney also announced all commercial spots for the 2027 Super Bowl have been sold.&lt;/p&gt;
+&lt;p&gt;So, grab a fresh cup of coffee, settle in, and join me for a quick weekend read.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

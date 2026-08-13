@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blackmagic on Michael Webber</title>
+    <link>http://localhost:1313/tags/blackmagic/</link>
+    <description>Recent content in Blackmagic on Michael Webber</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/blackmagic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Production Switcher to Zoom</title>
+      <link>http://localhost:1313/posts/2020_05_08-production-switcher-to-zoom/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2020_05_08-production-switcher-to-zoom/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/webpresenter.jpg&#34;&gt;
+&lt;em&gt;Backmagic Web Presenter, the perfect tool for the job.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;After several weeks on backorder, our &lt;a href=&#34;https://web.archive.org/web/20251115035055/https://www.blackmagicdesign.com/products/blackmagicwebpresenter&#34;&gt;Blackmagic Web Presenter&lt;/a&gt; arrived from &lt;a href=&#34;https://web.archive.org/web/20251115035055/https://www.bhphotovideo.com/&#34;&gt;BH Photo&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;The “black box” is a simple device that works out of the box. No drives, no software. Simply take the output of your video production switcher, professional SDI camera or HDMI source into the BM Web Presenter. Then connect a USB cable to your PC/Mac and the audio/video signal appears as a 720p HD webcam to the computer.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

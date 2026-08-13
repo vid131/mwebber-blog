@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Thoughts on Michael Webber</title>
+    <link>http://localhost:1313/tags/thoughts/</link>
+    <description>Recent content in Thoughts on Michael Webber</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unchristian Hesitation</title>
+      <link>http://localhost:1313/posts/2026_05_13-unchristian-hesitation/</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2026_05_13-unchristian-hesitation/</guid>
+      <description>&lt;p&gt;Sometimes your runner&amp;rsquo;s high gets interrupted. Life telling you to check your ego. The day is not complete. Sitting in the parking lot after an evening run, the sun has already set, when a stranger gets my attention seeking help with a flat tire. A woman in need, I help.&lt;/p&gt;
+&lt;p&gt;Yet, there&amp;rsquo;s an unchristian hesitation.&lt;/p&gt;
+&lt;p&gt;The situation will evolve, weakness creeps in. What am I getting myself into?&lt;/p&gt;
+&lt;p&gt;Mission creep is the rusted spare tire that won&amp;rsquo;t lodge free from the underside of the vehicle. Trying to figure out the Rube Goldberg system the car manufacturer used to mount and store the tire and jacks. Then the lug nuts, which I convinced myself must be welded on.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Moving my Musings to Obsidian</title>
+      <link>http://localhost:1313/posts/2026_02_15-moving-my-musings-to-obsidian/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2026_02_15-moving-my-musings-to-obsidian/</guid>
+      <description>&lt;p&gt;After years on WordPress, I&amp;rsquo;m transitioning my digital journal to a more local, file-based system.&lt;/p&gt;
+&lt;h3 id=&#34;why-the-change&#34;&gt;Why the Change?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ownership:&lt;/strong&gt; My notes stay in my vault.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Speed:&lt;/strong&gt; Next.js and Docker on my Contabo VPS are lightning fast.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Focus:&lt;/strong&gt; Writing in Obsidian allows for deep thinking without the clutter of a CMS dashboard.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;technology--learning&#34;&gt;Technology &amp;amp; Learning&lt;/h3&gt;
+&lt;p&gt;This blog isn&amp;rsquo;t just a place for updates; it&amp;rsquo;s a project in itself. Learning to containerize this with Docker has been a great Sunday exercise.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>60 Degree Day</title>
+      <link>http://localhost:1313/posts/2020_01_11-60-degree-day/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2020_01_11-60-degree-day/</guid>
+      <description>&lt;p&gt;What a day today, just an incredible temperature jump this weekend. Two days of 60-degree temps in January is rare, so I made an extra effort to get a run today. The Blackstone Bike Path was really busy today, again highly unusual in January. The parking lot had 20ish cars and the traffic along the bike path reminded me of early spring when everyone is excited to be outside.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/20200111_111647-scaled.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

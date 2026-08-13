@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>StreamDeck on Michael Webber</title>
+    <link>http://localhost:1313/tags/streamdeck/</link>
+    <description>Recent content in StreamDeck on Michael Webber</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/streamdeck/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stream Deck for Zoom Meetings</title>
+      <link>http://localhost:1313/posts/2020_04_09-stream-deck-for-zoom-meetings/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2020_04_09-stream-deck-for-zoom-meetings/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/20200408_100246-compressor-scaled.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UPDATE:&lt;/strong&gt; My setup for Zoom has evolved and somewhat less dependent on StreamDeck now. &lt;a href=&#34;https://www.michael-webber.com/zoom-tv-interviews/&#34;&gt;You may want to check out my new Blog Post with our updated Zoom setup for TV interviews&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This week I purchased a &lt;a href=&#34;https://www.elgato.com/en/gaming/stream-deck-xl&#34;&gt;Stream Deck XL&lt;/a&gt; ($235) to help streamline our video productions with Zoom remote guests.&lt;/p&gt;
+&lt;p&gt;Since the COVID-19 crisis hit mid-March our community television station scrambled to adapt and help disseminate important information. &lt;a href=&#34;https://www.zoom.us/&#34;&gt;Zoom&lt;/a&gt; quickly became the go-to platform for setting up meetings and remote show guests.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

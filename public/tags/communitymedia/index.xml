@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CommunityMedia on Michael Webber</title>
+    <link>http://localhost:1313/tags/communitymedia/</link>
+    <description>Recent content in CommunityMedia on Michael Webber</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/communitymedia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Backing Up Large Video File Collections to AWS Glacier Deep Archive</title>
+      <link>http://localhost:1313/posts/2019_12_15-backing-up-large-video-file-collections-to-aws-glacier-deep-archive/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2019_12_15-backing-up-large-video-file-collections-to-aws-glacier-deep-archive/</guid>
+      <description>&lt;h2 id=&#34;part-1--why-aws-glacier-deep-archive&#34;&gt;Part 1 – Why AWS Glacier Deep Archive?&lt;/h2&gt;
+&lt;p&gt;Backing up large collections of raw video footage and edit masters remains a real challenge for anyone working in the video production world. As the Executive Director of a local community media station, I’m responsible for maintaining a Synology NAS which currently holds 55TB of final edit master videos. The idea of incorporating “Cloud Storage” into our backup procedures has always interested me, but the expense has held me back.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
