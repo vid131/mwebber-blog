@@ -6,7 +6,7 @@ tags:
   - Cumberland
   - RhodeIsland
 categories:
-  - Personal
+  - Field Notes
 draft: false
 ---
 On June 29, 2020 Ann & Hope announced they would close all remaining outlet stores following a series of previously announced store closings. This includes their historic headquarters location in Cumberland at 1 Ann & Hope Way.

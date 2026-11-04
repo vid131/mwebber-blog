@@ -4,7 +4,7 @@ date: 2014-09-17
 tags:
   - running
 categories:
-  - Personal
+  - The Road
 draft: false
 ---
 ![](/thoughtsonrunning.jpg)

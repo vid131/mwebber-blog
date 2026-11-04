@@ -4,7 +4,7 @@ date: 2026-05-13
 tags:
   - thoughts
 categories:
-  - Personal
+  - Field Notes
 draft: false
 ---
 Sometimes your runner's high gets interrupted. Life telling you to check your ego. The day is not complete. Sitting in the parking lot after an evening run, the sun has already set, when a stranger gets my attention seeking help with a flat tire. A woman in need, I help. 

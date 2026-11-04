@@ -7,7 +7,7 @@ tags:
   - camping
   - campground
 categories:
-  - Personal
+  - Field Notes
 draft: false
 ---
 _**April 2012 UPDATE: Since I wrote this blog post Fransted Family Campground has been sold and is now managed by the new owners.**_

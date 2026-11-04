@@ -5,7 +5,7 @@ tags:
   - fun-stuff
   - Snow
 categories:
-  - Personal
+  - Field Notes
 draft: false
 ---
 10 PRINT “SNOW”

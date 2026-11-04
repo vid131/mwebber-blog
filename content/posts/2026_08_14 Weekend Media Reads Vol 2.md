@@ -10,6 +10,7 @@ tags:
   - "#NOAA"
   - "#broadcast-tv"
 categories:
+  - The Station
 draft: false
 ---
 ![](/techroundupcoffee.jpg)

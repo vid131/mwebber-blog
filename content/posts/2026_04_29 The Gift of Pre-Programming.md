@@ -4,7 +4,7 @@ date: 2026-04-29
 tags:
   - running
 categories:
-  - Personal
+  - Field Notes
 draft: false
 ---
 We often think of "help" as someone standing next to us while the work is happening.

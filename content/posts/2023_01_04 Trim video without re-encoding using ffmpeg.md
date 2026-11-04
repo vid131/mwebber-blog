@@ -4,7 +4,7 @@ date: 2023-01-04
 tags:
   - running
 categories:
-  - Personal
+  - The Station
 draft: false
 ---
 I’ve been taking the time to learn ffmpeg and some of the really useful stuff you can do with this command line tool (CLI).

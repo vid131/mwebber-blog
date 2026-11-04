@@ -5,7 +5,7 @@ tags:
   - video-production
   - Blackmagic
 categories:
-  - Personal
+  - The Station
 draft: false
 ---
 ![](/webpresenter.jpg)

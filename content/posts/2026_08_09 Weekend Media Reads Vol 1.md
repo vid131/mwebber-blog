@@ -9,6 +9,7 @@ tags:
   - news-clippings
   - video-production
 categories:
+  - The Station
 draft: false
 ---
 ![](/techroundupcoffee.jpg)

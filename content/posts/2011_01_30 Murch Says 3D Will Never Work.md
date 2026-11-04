@@ -6,7 +6,7 @@ tags:
   - video-production
   - Movies
 categories:
-  - Personal
+  - The Station
 draft: false
 ---
 The future of 3D is blurry at best, as more and more industry leaders express their concerns with the technology and its long-term viability.  Hollywood editor and sound designer, [Walter Murch](https://web.archive.org/web/20110201113055/http://en.wikipedia.org/wiki/Walter_Murch "Walter Murch Wikipedia Listing") is the latest skeptic to come out, explaining his viewpoint in a letter to Roger Ebert:

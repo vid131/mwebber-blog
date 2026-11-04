@@ -4,7 +4,7 @@ date: 2024-01-22
 tags:
   - running
 categories:
-  - Personal
+  - The Road
 draft: false
 ---
 ![Selfie running in the winter along the Blackstone Bike Path](/refreshingrun.jpg)

@@ -6,7 +6,7 @@ tags:
   - books
   - video-production
 categories:
-  - Personal
+  - The Station
 draft: false
 ---
 ![](/MartyOnTheMountain.jpg)

@@ -4,7 +4,7 @@ date: 2019-10-09
 tags:
   - Twit
 categories:
-  - Personal
+  - The Station
 draft: false
 ---
 Last Thursday, October 3, 2019 I had an opportunity to attend **LastPass’s Unlocked** – **Cybersecurity & Identity Trends** event in Boston, MA.

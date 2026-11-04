@@ -7,7 +7,7 @@ tags:
   - TV
   - Television
 categories:
-  - Personal
+  - The Station
 draft: false
 ---
 ## Part 1 – Why AWS Glacier Deep Archive?

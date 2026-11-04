@@ -6,7 +6,7 @@ tags:
   - travel
   - new-hampshire
 categories:
-  - Personal
+  - Field Notes
 draft: false
 ---
 We are on family vacation this week. Temperatures hit the 40s today, so we skipped the slopes to avoid the "mashed potato" snow and headed to the [Alton Bay Seaplane Base (B18)](https://www.facebook.com/AltonBaySeaplaneBaseandIceRunway). In the winter, this is better known simply as the Ice Runway.

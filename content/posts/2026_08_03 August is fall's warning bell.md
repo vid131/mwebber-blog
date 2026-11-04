@@ -6,7 +6,7 @@ tags:
   - cycling
   - Leadership
 categories:
-  - Personal
+  - Field Notes
 draft: false
 ---
 ![](/AugustBell.jpg)

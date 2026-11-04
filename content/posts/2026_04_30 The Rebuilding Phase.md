@@ -4,7 +4,7 @@ date: 2026-04-30
 tags:
   - running
 categories:
-  - Personal
+  - The Road
 draft: false
 ---
 April 2025: 69.2 miles.

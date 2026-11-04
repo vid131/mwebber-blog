@@ -6,7 +6,7 @@ tags:
   - technology
   - updates
 categories:
-  - Personal
+  - The Station
 draft: false
 ---
 After years on WordPress, I'm transitioning my digital journal to a more local, file-based system. 

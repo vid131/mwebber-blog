@@ -8,7 +8,7 @@ tags:
   - picnik
   - reviews
 categories:
-  - Personal
+  - Field Notes
 draft: true
 ---
 Photography is one of my favorite hobbies, it’s relaxing and challenging at the same time.  I’ve also found that focusing on still images has helped me better understand a develop my skills in my profession, video and TV production.

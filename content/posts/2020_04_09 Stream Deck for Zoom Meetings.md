@@ -7,7 +7,7 @@ tags:
   - StreamDeck
   - Zoom
 categories:
-  - Personal
+  - The Station
 draft: false
 ---
 ![](/20200408_100246-compressor-scaled.jpg)

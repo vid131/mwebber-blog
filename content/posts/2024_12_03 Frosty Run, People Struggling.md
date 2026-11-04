@@ -1,12 +1,12 @@
 ---
 title: Frosty Run, People Struggling
-date: 2026-12-03
+date: 2024-12-03
 tags:
   - running
   - homelessness
   - thoughts
 categories:
-  - Personal
+  - Field Notes
 draft: false
 ---
 ![](/GarminConnect_20241203-073405.jpg)
