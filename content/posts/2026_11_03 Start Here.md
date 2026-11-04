@@ -15,15 +15,17 @@ I'm Michael Webber, a technology enthusiast, recreational runner, and community 
 
 ## Professional Background
 
-For over two decades, I have served as the Executive Director for a non-profit community media center in Massachusetts. My work focuses on the intersection of public, educational, and government (PEG) access television. I specialize in live streaming architecture and video production workflow design.
+For over two decades, I have served as the Executive Director for a non-profit community media center in Massachusetts. My work focuses on public, educational, and government (PEG) access television. I specialize in live streaming architecture and video production workflow design.
 
 ## Academic & Mentorship
 
-Beyond management, I spent nearly twenty years as an Adjunct Instructor at a local college. This role allowed me to share my passion for media production with the next generation of creators.
+Beyond management, I spent nearly twenty years as an Adjunct Instructor at a local college. A role that allowed me to share my passion for media production with the next generation of creators.
 
 ## Community & Personal Projects
 
-Outside of the office, I am still involved in Scouting America, serving as Committee Chair for a local Scouts BSA Troop. That role is winding down: both of my sons earned Eagle Scout and have aged out of the troop, though they are still active in the Order of the Arrow. I expect to hand the chair over before too much longer.
+For years I was involved in Scouting America as Committee Chair for a local Scouts BSA troop, while my sons came up through the program. Both earned Eagle Scout, and that chapter is winding down.
+
+Running is the thing I keep coming back to, and the thing I keep falling out of. I have had good stretches where the habit held, and long stretches where it did not, and a fair amount of this site is me working my way back. Cycling started with my wife during COVID, long weekend rides when there was not much else to do, and it never stopped. We are still at it, and recently put together a 300 mile month.
 
 The holiday light show started as a project with my son. He is off at college now and runs most of the tech side on his own; these days I mostly support it, with a lot of soldering and an extra set of hands when he needs them.
 
