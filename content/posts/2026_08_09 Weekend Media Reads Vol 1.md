@@ -12,7 +12,7 @@ categories:
   - The Station
 draft: false
 ---
-![](/techroundupcoffee.jpg)
+![](../../static/techroundupcoffee.jpg)
 
 This week my RSS reader was filled with news coming out of the FCC. Are they spurring a new wave of broadcast media consolidation? Is the Universal Service Fund (USF) no longer needed in the age of Starlink? Disney also announced all commercial spots for the 2027 Super Bowl have been sold.
 

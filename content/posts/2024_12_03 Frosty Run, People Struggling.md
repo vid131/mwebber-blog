@@ -9,7 +9,7 @@ categories:
   - Field Notes
 draft: false
 ---
-![](/GarminConnect_20241203-073405.jpg)
+![](../../static/GarminConnect_20241203-073405.jpg)
 
 Yesterday, I noticed what appears to be a transient shelter in the woods right along the banks of the Blackstone River. The tall structure seems to be built with gathered wood and rope lashings. There are even a few steps in front of the entrance, suggesting an elevated floor off the ground.
 

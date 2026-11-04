@@ -9,7 +9,7 @@ draft: false
 ---
 Last Thursday, October 3, 2019 I had an opportunity to attend **LastPass’s Unlocked** – **Cybersecurity & Identity Trends** event in Boston, MA.
 
-![](/LastPassBoston-4.jpg)
+![](../../static/LastPassBoston-4.jpg)
 
 The panel of security experts included:
 

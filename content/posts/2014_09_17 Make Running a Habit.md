@@ -7,7 +7,7 @@ categories:
   - The Road
 draft: false
 ---
-![](/thoughtsonrunning.jpg)
+![](../../static/thoughtsonrunning.jpg)
 
 Some thoughts on running and a few training updates as the summer comes to an end.
 

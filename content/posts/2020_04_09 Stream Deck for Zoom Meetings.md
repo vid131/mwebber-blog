@@ -10,7 +10,7 @@ categories:
   - The Station
 draft: false
 ---
-![](/20200408_100246-compressor-scaled.jpg)
+![](../../static/20200408_100246-compressor-scaled.jpg)
 
 **UPDATE:** My setup for Zoom has evolved and somewhat less dependent on StreamDeck now. [You may want to check out my new Blog Post with our updated Zoom setup for TV interviews](https://www.michael-webber.com/zoom-tv-interviews/).
 
@@ -31,7 +31,7 @@ Despite the limitations, we are making every effort to maintain high production 
 
 Our existing television studio was not set up well for the shift in production style. This prompted us to build a temporary video production console on several folding tables right inside our studio.
 
-![](/covidstudiosetup2020.jpg)
+![](../../static/covidstudiosetup2020.jpg)
 
 ## Adding Steam Deck XL into the Workflow
 
@@ -44,7 +44,7 @@ Another shortcut I use often hides the control panel buttons on the lower part o
 The **Stream Deck XL** simply automates the keyboard shortcut process and reduces keystrokes to a single button. Allowing new users in the video production environment to get up to speed faster and with better results.
 
 ### TIP – ENABLE GLOBAL SHORTCUT
-![](/ZoomSettings.jpg)
+![](../../static/ZoomSettings.jpg)
 
 Enabling global shortcuts really helps the Stream Deck configuration. This setting allows the shortcuts to work even when Zoom is not in focus.
 

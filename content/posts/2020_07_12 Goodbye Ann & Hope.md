@@ -11,9 +11,9 @@ draft: false
 ---
 On June 29, 2020 Ann & Hope announced they would close all remaining outlet stores following a series of previously announced store closings. This includes their historic headquarters location in Cumberland at 1 Ann & Hope Way.
 
-![](/AnnHope2020-5.jpg)
+![](../../static/AnnHope2020-5.jpg)
 
-![](/AnnHope2020-1.jpg)
+![](../../static/AnnHope2020-1.jpg)
 
 I stopped by to take some photos of the building yesterday, just to capture some images before the signs are removed and the building becomes mostly vacant.
 
@@ -21,7 +21,7 @@ Ann & Hope is known as the first discount department store in America, pioneerin
 
 Growing up in Massachusetts, I don’t recall any childhood memories of the store, but many in Rhode Island and especially in Cumberland certainly do. I know the shopping cart conveyor was a unique system for moving shopping carts between floors. I bet that was neat to see in operation.
 
-![](/AnnHope2020-2.jpg)
+![](../../static/AnnHope2020-2.jpg)
 
 From the “About” page on the Ann & Hope website is some interesting history that I thought I would capture, copied below:
 
@@ -35,9 +35,9 @@ Today, the second and third generations of Ann and Hope’s founders operate 11 
 >
 [https://curtainandbathoutlet.com/about-us/](https://web.archive.org/web/20250618115914/https://curtainandbathoutlet.com/about-us/)
 
-![](/AnnHope2020-3.jpg)
+![](../../static/AnnHope2020-3.jpg)
 
-![](/AnnHope2020-4.jpg)
+![](../../static/AnnHope2020-4.jpg)
 
-![](/AnnHope2020-6.jpg)
+![](../../static/AnnHope2020-6.jpg)
 

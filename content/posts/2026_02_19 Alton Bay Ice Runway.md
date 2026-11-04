@@ -14,7 +14,7 @@ We are on family vacation this week. Temperatures hit the 40s today, so we skipp
 Located on Lake Winnipesaukee, this is the only FAA-approved ice runway in the lower 48 states. It is having a banner year thanks to an early winter and consistent cold. The runway has already surpassed the previous season record of 764 landings.
 <figure>
 
-![Ariel View of Alton Bay Ice Runway, February, 2017](/AltonBay_AirportB18ArielRunway.jpg)
+![Ariel View of Alton Bay Ice Runway, February, 2017](../../static/AltonBay_AirportB18ArielRunway.jpg)
 
 <figcaption>
   Aerial photo of the Alton Bay airport (B18) at Lake Winnipesaukee, February, 2017 <br />

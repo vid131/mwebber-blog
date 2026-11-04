@@ -13,7 +13,7 @@ categories:
   - The Station
 draft: false
 ---
-![](/techroundupcoffee.jpg)
+![](../../static/techroundupcoffee.jpg)
 
 UK plans to phase out Digital Terrestrial Television (DTT) got me thinking about the long-term future of over-the-air broadcasting worldwide.
 

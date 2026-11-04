@@ -9,7 +9,7 @@ categories:
   - Field Notes
 draft: false
 ---
-![](/AugustBell.jpg)
+![](../../static/AugustBell.jpg)
 
 September is coming fast, and if you have lingering summer goals, you better have a plan.
 

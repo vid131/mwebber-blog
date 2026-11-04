@@ -8,7 +8,7 @@ categories:
   - The Station
 draft: false
 ---
-![](/webpresenter.jpg)
+![](../../static/webpresenter.jpg)
 _Backmagic Web Presenter, the perfect tool for the job._
 
 After several weeks on backorder, our [Blackmagic Web Presenter](https://web.archive.org/web/20251115035055/https://www.blackmagicdesign.com/products/blackmagicwebpresenter) arrived from [BH Photo](https://web.archive.org/web/20251115035055/https://www.bhphotovideo.com/)!

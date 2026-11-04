@@ -9,7 +9,7 @@ categories:
   - The Station
 draft: false
 ---
-![](/MartyOnTheMountain.jpg)
+![](../../static/MartyOnTheMountain.jpg)
 *Picked up my copy of Marty On The Mountain at [The Village Book Store](https://web.archive.org/web/20141220053352/http://www.booksmusictoys.com/) in Littleton, NH.*
 
 Mount Washington and Television, two of my life passions in one book.

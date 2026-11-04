@@ -13,7 +13,7 @@ draft: true
 ---
 Photography is one of my favorite hobbies, it’s relaxing and challenging at the same time.  I’ve also found that focusing on still images has helped me better understand a develop my skills in my profession, video and TV production.
 
-![](/tallships.jpg)
+![](../../static/tallships.jpg)
 
 This particular shot was taken aboard the Portuguese Navy Ship, [**NRP Sagres III**](https://web.archive.org/web/20101007124552/http://en.wikipedia.org/wiki/NRP_Sagres_III), while I was visiting Boston for Tall Ships 2009.  Sagres III was built in 1937 and was incredible, although the long lines prevent anyone from taking too much time touring the vessel.
 

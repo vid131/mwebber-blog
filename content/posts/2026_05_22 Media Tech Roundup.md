@@ -8,7 +8,7 @@ categories:
   - The Station
 draft: false
 ---
-![](/techroundup.png)
+![](../../static/techroundup.png)
 
 Technology is advancing the production process, moving faster than ever. The media landscape is shifting as politics and business models challenge every aspect of our world. As professionals we must strive to stay current from content and engineering perspectives.
 
