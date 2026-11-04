@@ -35,15 +35,25 @@ googleAnalytics = 'G-WLK11FRDZQ'
   weight = 10
 
 [[menu.main]]
-  name = "Tags"
-  url = "/tags/"
+  name = "The Station"
+  url = "/categories/the-station/"
   weight = 20
+
+[[menu.main]]
+  name = "The Road"
+  url = "/categories/the-road/"
+  weight = 30
+
+[[menu.main]]
+  name = "Field Notes"
+  url = "/categories/field-notes/"
+  weight = 40
 
 # Add this block for the RSS Menu Link
 [[menu.main]]
   name = "RSS"
   url = "/index.xml"
-  weight = 30
+  weight = 50
 
 [params.search]
 enable = true
