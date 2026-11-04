@@ -5,7 +5,7 @@ tags:
   - about
 categories:
   - Field Notes
-draft: true
+draft: false
 ---
 Hey there!
 
@@ -23,11 +23,11 @@ Beyond management, I spent nearly twenty years as an Adjunct Instructor at a loc
 
 ## Community & Personal Projects
 
-For years I was involved in Scouting America as Committee Chair for a local Scouts BSA troop, while my sons came up through the program. Both earned Eagle Scout, and that chapter is winding down.
+I've been involved in Scouting America for many years, serving as a Cubmaster and more recently as a Committee Chair for a local Scouts BSA troop. My sons came up through the program and both earned Eagle Scout. They remain very active in Scouting through the Order of the Arrow (Scout's National Honor Society), serving in various leadership roles.
 
 Running is the thing I keep coming back to, and the thing I keep falling out of. I have had good stretches where the habit held, and long stretches where it did not, and a fair amount of this site is me working my way back. Cycling started with my wife during COVID, long weekend rides when there was not much else to do, and it never stopped. We are still at it, and recently put together a 300 mile month.
 
-The holiday light show started as a project with my son. He is off at college now and runs most of the tech side on his own; these days I mostly support it, with a lot of soldering and an extra set of hands when he needs them.
+Our family runs a synchronized holiday light show, which started as a project with my son. He is off at college now and runs most of the tech side on his own; these days I'm mostly in a support role, with a lot of soldering and an extra set of hands when he needs them.
 
 Beyond that, there are always a few other projects competing for the leftover hours. They keep me busy, and that is probably the point.
 
