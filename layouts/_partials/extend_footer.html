@@ -1,0 +1,18 @@
+{{- if .IsHome }}
+<div style="text-align: center; margin: 4px auto 18px;">
+    <div class="social-icons">
+        <a href="https://www.instagram.com/mediaguy4" target="_blank" rel="noopener noreferrer me" title="Instagram">
+            {{- partial "svg.html" (dict "name" "instagram") }}
+        </a>
+        <a href="https://bsky.app/profile/michael-webber.com" target="_blank" rel="noopener noreferrer me" title="Bluesky">
+            {{- partial "svg.html" (dict "name" "bluesky") }}
+        </a>
+        <a href="https://www.facebook.com/MichaelRWebber" target="_blank" rel="noopener noreferrer me" title="Facebook">
+            {{- partial "svg.html" (dict "name" "facebook") }}
+        </a>
+        <a href="https://x.com/MediaGuy4" target="_blank" rel="noopener noreferrer me" title="X">
+            {{- partial "svg.html" (dict "name" "x") }}
+        </a>
+    </div>
+</div>
+{{- end }}
