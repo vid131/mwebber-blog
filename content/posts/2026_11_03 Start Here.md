@@ -7,10 +7,11 @@ categories:
   - Field Notes
 draft: true
 ---
-
 Hey there!
 
 I'm Michael Webber, a technology enthusiast, recreational runner, and community media professional.
+
+**Nonprofit Management | Video Production Engineer | Community Media | Live Stream & A/V Consultant | Problem Solver**
 
 ## Professional Background
 
