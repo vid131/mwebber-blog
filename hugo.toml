@@ -28,6 +28,10 @@ googleAnalytics = 'G-WLK11FRDZQ'
     name = "Read the Blog"
     url = "/posts/"
 
+  [[params.profileMode.buttons]]
+    name = "Start Here"
+    url = "/posts/2026_11_03-start-here/"
+
 # Top Right Navigation Menu Links
 [[menu.main]]
   name = "Archive"
