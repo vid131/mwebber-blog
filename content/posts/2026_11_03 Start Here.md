@@ -22,9 +22,11 @@ Beyond management, I spent nearly twenty years as an Adjunct Instructor at a loc
 
 ## Community & Personal Projects
 
-Outside of the office, I am deeply involved in Scouting America, currently serving as a Committee Chair for a local Scouts BSA Troop.
+Outside of the office, I am still involved in Scouting America, serving as Committee Chair for a local Scouts BSA Troop. That role is winding down: both of my sons earned Eagle Scout and have aged out of the troop, though they are still active in the Order of the Arrow. I expect to hand the chair over before too much longer.
 
-When I'm not volunteering or on a run, I'm usually tinkering with technology. My current focus is a collaborative project with my son: designing and building an automated, tech-driven outdoor lighting show for the holidays.
+The holiday light show started as a project with my son. He is off at college now and runs most of the tech side on his own; these days I mostly support it, with a lot of soldering and an extra set of hands when he needs them.
+
+Beyond that, there are always a few other projects competing for the leftover hours. They keep me busy, and that is probably the point.
 
 ## What You'll Find Here
 
